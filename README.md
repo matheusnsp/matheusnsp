@@ -7,9 +7,9 @@
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/foco-SOC%20N1%20%C2%B7%20Infra%20%26%20Seguran%C3%A7a-4ade80?style=for-the-badge&labelColor=0a0e14" alt="Foco: SOC N1 · Infra & Segurança">
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-em%20andamento-38bdf8?style=for-the-badge&labelColor=0a0e14" alt="CompTIA Security+ em andamento">
-  <img src="https://img.shields.io/badge/Microsoft-SC--900-4ade80?style=for-the-badge&labelColor=0a0e14" alt="Microsoft SC-900">
+  <a href="https://www.matheusnsp.com.br/cv-matheus-neves.pdf"><img src="https://img.shields.io/badge/foco-SOC%20N1%20%C2%B7%20Infra%20%26%20Seguran%C3%A7a-4ade80?style=for-the-badge&labelColor=0a0e14" alt="Foco: SOC N1 · Infra & Segurança — abrir CV"></a>
+  <a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/CompTIA%20Security%2B-em%20andamento-38bdf8?style=for-the-badge&labelColor=0a0e14" alt="CompTIA Security+ em andamento"></a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/"><img src="https://img.shields.io/badge/Microsoft-SC--900-4ade80?style=for-the-badge&labelColor=0a0e14" alt="Microsoft SC-900"></a>
 </p>
 
 <p align="center">
@@ -31,10 +31,10 @@ Analista de Segurança da Informação Jr. (SOC N1) ou Analista de Infraestrutur
 
 <table>
   <tr>
-    <td align="center" width="25%"><h2>350</h2><sub>alunos num sistema que construí com argon2id, CSRF, rate limiting e LGPD</sub></td>
-    <td align="center" width="25%"><h2>L2/L3</h2><sub>rede corporativa segmentada, com IAM e CFTV IP na Cruz Vermelha</sub></td>
-    <td align="center" width="25%"><h2>CVE</h2><sub>correlação automática via NVD/NIST na minha ferramenta de recon</sub></td>
-    <td align="center" width="25%"><h2>EN</h2><sub>inglês fluente · 4 anos e graduação na Austrália</sub></td>
+    <td align="center" valign="top" width="25%"><h3>350</h3><sub>alunos em sistema seguro<br>em produção</sub><br><img src="https://raw.githubusercontent.com/matheusnsp/matheusnsp/main/assets/spacer.svg" width="180" height="1" alt=""></td>
+    <td align="center" valign="top" width="25%"><h3>L2/L3</h3><sub>rede segmentada<br>com IAM e CFTV IP</sub><br><img src="https://raw.githubusercontent.com/matheusnsp/matheusnsp/main/assets/spacer.svg" width="180" height="1" alt=""></td>
+    <td align="center" valign="top" width="25%"><h3>CVE</h3><sub>correlação automática<br>via NVD/NIST</sub><br><img src="https://raw.githubusercontent.com/matheusnsp/matheusnsp/main/assets/spacer.svg" width="180" height="1" alt=""></td>
+    <td align="center" valign="top" width="25%"><h3>EN</h3><sub>inglês fluente<br>4 anos na Austrália</sub><br><img src="https://raw.githubusercontent.com/matheusnsp/matheusnsp/main/assets/spacer.svg" width="180" height="1" alt=""></td>
   </tr>
 </table>
 
