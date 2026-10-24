@@ -1,15 +1,11 @@
 <a href="https://www.matheusnsp.com.br">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusnsp/matheusnsp/main/assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusnsp/matheusnsp/main/assets/banner-light.svg">
-    <img alt="Matheus Neves — Engenheiro de Software com ênfase em Cibersegurança" src="https://raw.githubusercontent.com/matheusnsp/matheusnsp/main/assets/banner-light.svg" width="100%">
-  </picture>
+  <img alt="Matheus Neves — full stack, cibersegurança e IA. Retrato em partículas do portfólio." src="https://raw.githubusercontent.com/matheusnsp/matheusnsp/main/assets/banner.png" width="100%">
 </a>
 
 <p align="center">
-  <a href="https://www.matheusnsp.com.br/cv-matheus-neves.pdf"><img src="https://img.shields.io/badge/foco-SOC%20N1%20%C2%B7%20Infra%20%26%20Seguran%C3%A7a-4ade80?style=for-the-badge&labelColor=0a0e14" alt="Foco: SOC N1 · Infra & Segurança — abrir CV"></a>
-  <a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/CompTIA%20Security%2B-em%20andamento-38bdf8?style=for-the-badge&labelColor=0a0e14" alt="CompTIA Security+ em andamento"></a>
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/"><img src="https://img.shields.io/badge/Microsoft-SC--900-4ade80?style=for-the-badge&labelColor=0a0e14" alt="Microsoft SC-900"></a>
+  <a href="https://www.matheusnsp.com.br/cv-matheus-neves.pdf"><img src="https://img.shields.io/badge/foco-SOC%20N1%20%C2%B7%20Infra%20%26%20Seguran%C3%A7a-E9A25A?style=for-the-badge&labelColor=060709" alt="Foco: SOC N1 · Infra & Segurança — abrir CV"></a>
+  <a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/CompTIA%20Security%2B-em%20andamento-5DB7B4?style=for-the-badge&labelColor=060709" alt="CompTIA Security+ em andamento"></a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/"><img src="https://img.shields.io/badge/Microsoft-SC--900-E9A25A?style=for-the-badge&labelColor=060709" alt="Microsoft SC-900"></a>
 </p>
 
 <p align="center">
