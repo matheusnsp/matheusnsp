@@ -1,109 +1,73 @@
 <a href="https://www.matheusnsp.com.br">
-  <img alt="Matheus Neves — full stack, cibersegurança e IA. Retrato em partículas do portfólio." src="https://raw.githubusercontent.com/matheusnsp/matheusnsp/main/assets/banner.png" width="100%">
+  <img alt="Matheus Neves — full stack, cibersegurança e IA" src="assets/banner.png" width="100%">
 </a>
 
 <p align="center">
-  <a href="https://www.matheusnsp.com.br/cv-matheus-neves.pdf"><img src="https://img.shields.io/badge/foco-SOC%20N1%20%C2%B7%20Infra%20%26%20Seguran%C3%A7a-E9A25A?style=for-the-badge&labelColor=060709" alt="Foco: SOC N1 · Infra & Segurança — abrir CV"></a>
-  <a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/CompTIA%20Security%2B-em%20andamento-5DB7B4?style=for-the-badge&labelColor=060709" alt="CompTIA Security+ em andamento"></a>
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/"><img src="https://img.shields.io/badge/Microsoft-SC--900-E9A25A?style=for-the-badge&labelColor=060709" alt="Microsoft SC-900"></a>
+  <a href="https://www.matheusnsp.com.br"><img alt="Ver portfólio" src="assets/ui/btn-site.png" height="44"></a>&nbsp;
+  <a href="https://www.matheusnsp.com.br/cv-matheus-neves.pdf"><img alt="Currículo em PDF" src="assets/ui/btn-cv.png" height="44"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/matheusnsp"><img alt="LinkedIn" src="assets/ui/btn-linkedin.png" height="44"></a>&nbsp;
+  <a href="mailto:matheusn.dev@gmail.com"><img alt="E-mail: matheusn.dev@gmail.com" src="assets/ui/btn-email.png" height="44"></a>
 </p>
 
-<p align="center">
-  📍 Rio de Janeiro, RJ &nbsp;·&nbsp;
-  <a href="mailto:matheusn.dev@gmail.com"><b>E-mail</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/matheusnsp"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://www.matheusnsp.com.br"><b>Portfólio</b></a> &nbsp;·&nbsp;
-  <a href="https://www.matheusnsp.com.br/cv-matheus-neves.pdf"><b>CV (PDF)</b></a>
-</p>
+Engenheiro de software formado na **University of Canberra**, com ênfase em cibersegurança. Hoje coordeno infraestrutura e segurança na **Cruz Vermelha Brasileira**, no Rio, e desenvolvo sistemas web que vão para produção.
 
-```bash
-$ whoami
-matheus-neves  # engenheiro de software · ênfase em cibersegurança · University of Canberra 🇦🇺
+**Procuro:** vaga de Analista de Segurança da Informação Jr. (SOC N1) ou de Infraestrutura e Segurança, com foco em monitoramento, triagem de eventos e hardening de Windows e Linux. Sigo aceitando projetos web como freelancer.
 
-$ cat objetivo.txt
-Analista de Segurança da Informação Jr. (SOC N1) ou Analista de Infraestrutura e Segurança
-→ monitoramento, triagem de eventos e hardening de ambientes Windows e Linux
-```
+<img alt="L2/L3: rede segmentada com IAM e CFTV IP · CVE: correlação automática via NVD/NIST · 4,2 s de latência no robô De Niro · EN: inglês fluente" src="assets/ui/numeros.png" width="100%">
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="25%"><h3>350</h3><sub>alunos em sistema seguro<br>em produção</sub><br><img src="https://raw.githubusercontent.com/matheusnsp/matheusnsp/main/assets/spacer.svg" width="180" height="1" alt=""></td>
-    <td align="center" valign="top" width="25%"><h3>L2/L3</h3><sub>rede segmentada<br>com IAM e CFTV IP</sub><br><img src="https://raw.githubusercontent.com/matheusnsp/matheusnsp/main/assets/spacer.svg" width="180" height="1" alt=""></td>
-    <td align="center" valign="top" width="25%"><h3>CVE</h3><sub>correlação automática<br>via NVD/NIST</sub><br><img src="https://raw.githubusercontent.com/matheusnsp/matheusnsp/main/assets/spacer.svg" width="180" height="1" alt=""></td>
-    <td align="center" valign="top" width="25%"><h3>EN</h3><sub>inglês fluente<br>4 anos na Austrália</sub><br><img src="https://raw.githubusercontent.com/matheusnsp/matheusnsp/main/assets/spacer.svg" width="180" height="1" alt=""></td>
-  </tr>
-</table>
-
-## 🛡️ Projeto em destaque — NetScan
-
-<a href="https://github.com/matheusnsp/NetScan"><img src="https://raw.githubusercontent.com/matheusnsp/Portfolio/main/public/netscan.png" alt="NetScan rodando no terminal: varredura de portas e CVEs encontrados" width="100%"></a>
-
-Ferramenta de **reconhecimento para pentest** em Python: descoberta de hosts via ARP, varredura TCP concorrente, banner grabbing e **correlação automática de CVEs** pela API NVD/NIST, com severidade CVSS e relatórios em HTML, JSON e CSV.
-
-`Python` `ThreadPoolExecutor` `NVD API` `CVSS` `pytest` &nbsp;→&nbsp; **[ver repositório](https://github.com/matheusnsp/NetScan)**
-
-## 🧪 Outros projetos
-
-| | Projeto | O que mostra | |
-|:-:|:--|:--|:-:|
-| 🧱 | **Secure Network Infrastructure** | Rede corporativa com Windows Server, Linux, Active Directory, VLANs e firewall Cisco (ACL/NAT), com justificativa dos controles | [Relatório](https://www.matheusnsp.com.br/A3_Report.pdf) |
-| 🏥 | **Sistema da Escola CVB-RJ** | Desenvolvimento seguro em produção: argon2id, CSRF, rate limiting, Zod, acesso por perfil, banimento automático e LGPD | [Ao vivo](https://escola.cursoscruzvermelha.org) |
-| 📊 | **Dash** | Autenticação e Row Level Security via Supabase — menor privilégio na camada de dados | [Repositório](https://github.com/matheusnsp/Dash) |
-
-## 💼 Experiência
-
-> **Coordenador de Infraestrutura e Segurança (Voluntário)** · Cruz Vermelha Brasileira, RJ · *fev 2026 – presente*
-> - Auditoria do parque tecnológico, controle de ativos e sanitização segura de HDDs
-> - Expansão e segmentação da rede (L2/L3), monitoramento remoto e CFTV IP com políticas de IAM
-> - Sistema de gestão da Escola de Capacitação com práticas de desenvolvimento seguro e adequação à LGPD
-
-> **Estagiário de Desenvolvimento de IA e Robótica** · University of Canberra · *jul – nov 2024*
-> - IA generativa (GPT-4, Whisper, ElevenLabs) para robô teatral; latência de **7,5 s → 4,2 s**, apresentado no Questacon
-
-## 🧰 Arsenal
+## Projetos
 
 <p>
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="38" alt="Wireshark" title="Wireshark">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="38" alt="Cisco" title="Cisco · ACL/NAT">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux" title="Linux">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="38" alt="Windows Server" title="Windows Server">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/8b98ad" height="38" alt="Bash" title="Bash">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="38" alt="PowerShell" title="PowerShell">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" title="Docker">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" title="Python">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" title="Node.js">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" title="Git">
+  <a href="https://github.com/matheusnsp/NetScan"><img alt="NetScan: reconhecimento para pentest em Python" src="assets/cards/netscan.png" width="49%"></a>
+  <a href="https://escola.cursoscruzvermelha.org"><img alt="Sistema da Escola da Cruz Vermelha, em produção" src="assets/cards/cvb.png" width="49%"></a>
+</p>
+<p>
+  <a href="https://www.matheusnsp.com.br/A3_Report.pdf"><img alt="Rede corporativa segura com Windows, Linux e Cisco" src="assets/cards/infra.png" width="49%"></a>
+  <a href="https://github.com/matheusnsp/Dash"><img alt="Dash: finanças pessoais com Row Level Security" src="assets/cards/dash.png" width="49%"></a>
+</p>
+<p>
+  <a href="https://www.catiapoggian.com"><img alt="Site da Catia Poggian" src="assets/cards/catia.png" width="49%"></a>
+  <a href="https://github.com/matheusnsp/Portfolio"><img alt="Este portfólio, com retrato em partículas" src="assets/cards/portfolio.png" width="49%"></a>
 </p>
 
-| Área | Habilidades |
-|:--|:--|
-| **Segurança da Informação** | IAM, Active Directory, hardening Windows/Linux, gestão de ativos, descarte seguro de dados, LGPD, gestão de riscos, OWASP |
-| **Redes e Monitoramento** | TCP/IP, Wireshark, VLANs e segmentação L2/L3, firewalls Cisco (ACL/NAT), monitoramento, varredura e enumeração |
-| **Segurança Ofensiva** | Reconhecimento de rede, correlação de CVEs (NVD/NIST), ferramentas próprias em Python |
-| **Sistemas e Dev** | Windows Server, Linux, VMs, Docker, Bash/PowerShell, Python, Node.js, Git/GitHub |
+## Trajetória
 
-## 🎓 Formação e certificações
+**Coordenador de Infraestrutura e Segurança (voluntário)** · Cruz Vermelha Brasileira, Rio de Janeiro · *fev 2026 – agora*
+- Auditoria do parque tecnológico, controle de ativos e sanitização segura de HDDs
+- Expansão e segmentação da rede (L2/L3), monitoramento remoto e CFTV IP com políticas de IAM
+- Sistema de gestão da Escola de Capacitação com desenvolvimento seguro e adequação à LGPD
 
-| | | |
-|:-:|:--|:--|
-| 🎓 | **Bacharelado em Engenharia de Software** — University of Canberra 🇦🇺 | dez/2024 · GPA 5,67/7 |
-| 🔐 | **CompTIA Security+ (SY0-701)** | em andamento · jan/2027 |
-| 🛡️ | **SC-900** · Security, Compliance & Identity Fundamentals — Microsoft | 2025 |
-| 🎤 | **Oratória e Comunicação** — Clube da Fala | 2025 |
+**Estagiário de IA e Robótica** · University of Canberra, Austrália · *jul – nov 2024*
+- Plataforma com GPT-4, Whisper e ElevenLabs para um robô de teatro, latência de 7,5 s para 4,2 s
+- Robô apresentado no Questacon Science Museum
+
+**Bacharelado em Engenharia de Software** · University of Canberra, Austrália · *concluído em dez 2024 · GPA 5,67/7*
+
+## Arsenal
+
+<img alt="Segurança: IAM e Active Directory, hardening Windows e Linux, LGPD e OWASP, gestão de ativos e riscos · Redes: TCP/IP e Wireshark, VLANs L2/L3, Cisco ACL e NAT, monitoramento · Desenvolvimento: Python e Node.js, React e JavaScript, PostgreSQL e Prisma, Supabase · Ferramentas: Linux e Windows Server, Docker, Bash e PowerShell, Git e GitHub" src="assets/ui/arsenal.png" width="100%">
+
+## Certificações
+
+- **CompTIA Security+ (SY0-701)** · em andamento, previsão jan 2027
+- **Microsoft SC-900** · Security, Compliance & Identity Fundamentals · 2025
+- **Oratória e Comunicação** · Clube da Fala · 2025
 
 <details>
-<summary><b>🇬🇧 English version</b></summary>
+<summary><b>English version</b></summary>
 <br>
 
-**Software Engineer with a focus on Cybersecurity** — networks, IAM, traffic analysis and monitoring. Seeking a **Junior Information Security Analyst (SOC L1)** or **Infrastructure & Security Analyst** role, focused on monitoring, event triage and Windows/Linux hardening.
+Software engineer who graduated from the **University of Canberra** with a focus on cybersecurity. I run IT infrastructure and security at the **Brazilian Red Cross** in Rio de Janeiro and build web systems that ship to production.
 
-- **Infrastructure & Security Coordinator (Volunteer)**, Brazilian Red Cross — Rio de Janeiro (Feb 2026 – present): hardware audit, secure HDD sanitization, L2/L3 segmentation, IAM policies, IP CCTV; built the training school's management system with argon2id, CSRF protection, rate limiting, Zod validation, role-based access and LGPD compliance — 350 students in production.
-- **AI & Robotics Development Intern**, University of Canberra (Jul – Nov 2024): generative-AI pipeline for a theatrical robot, latency cut from 7.5 s to 4.2 s; demoed at Questacon.
-- **Projects:** [NetScan](https://github.com/matheusnsp/NetScan) · [Secure Network Infrastructure](https://www.matheusnsp.com.br/A3_Report.pdf) · [Dash](https://github.com/matheusnsp/Dash)
-- **Certifications:** CompTIA Security+ (SY0-701, in progress, Jan 2027) · Microsoft SC-900 (2025)
+**Looking for:** a Junior Information Security Analyst (SOC L1) or Infrastructure & Security role, focused on monitoring, event triage and Windows/Linux hardening. I also take on freelance web projects.
+
+- **Infrastructure & Security Coordinator (Volunteer)**, Brazilian Red Cross, Rio de Janeiro (Feb 2026 – present): hardware audit, secure HDD sanitization, L2/L3 segmentation, IAM policies and IP CCTV; built the training school's management system with argon2id, CSRF protection, rate limiting, Zod validation, role-based access and LGPD compliance.
+- **AI & Robotics Intern**, University of Canberra (Jul – Nov 2024): generative-AI pipeline for a theatre robot, latency cut from 7.5 s to 4.2 s; showcased at Questacon.
 - **Education:** B. Software Engineering, University of Canberra (Dec 2024, GPA 5.67/7)
+- **Certifications:** CompTIA Security+ (SY0-701, in progress, Jan 2027) · Microsoft SC-900 (2025)
 
-📄 [Resume (PDF)](https://www.matheusnsp.com.br/resume-matheus-neves.pdf)
+[Portfolio](https://www.matheusnsp.com.br) · [Résumé (PDF)](https://www.matheusnsp.com.br/resume-matheus-neves.pdf) · [LinkedIn](https://www.linkedin.com/in/matheusnsp)
 
 </details>
+
+<sub>Rio de Janeiro · 22.90°S 43.17°W</sub>
